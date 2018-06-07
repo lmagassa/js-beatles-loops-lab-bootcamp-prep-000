@@ -25,7 +25,7 @@ function iLoveTheBeatles(aNumber) {
   var allLove = new Array()
   var aNumber
   do {
-    [...allLove, `I love the Beatles!`]
+    var allLove = [...allLove, `I love the Beatles!`]
     aNumber++
   } while (aNumber < 15)
   return allLove
