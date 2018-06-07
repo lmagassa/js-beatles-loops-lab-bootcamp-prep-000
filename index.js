@@ -23,9 +23,10 @@ return confirmedFacts
 
 function iLoveTheBeatles(aNumber) {
   var allLove = []
+  var aNumber = ""
   do {
     [...allLove, `I love the Beatles!`]
-    c
+    counter++
   } while (aNumber < 15)
   return allLove
 }
