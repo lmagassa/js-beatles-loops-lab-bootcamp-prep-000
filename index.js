@@ -22,7 +22,7 @@ return confirmedFacts
 }
 
 function iLoveTheBeatles(aNumber) {
-  var allLove = []
+  var allLove = new Array()
   var aNumber = ;
   do {
     [...allLove, `I love the Beatles!`]
