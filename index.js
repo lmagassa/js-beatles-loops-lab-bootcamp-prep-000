@@ -23,7 +23,7 @@ return confirmedFacts
 
 function iLoveTheBeatles(aNumber) {
   var allLove = new Array()
-  var aNumber = ;
+  var aNumber = 
   do {
     [...allLove, `I love the Beatles!`]
     counter++
